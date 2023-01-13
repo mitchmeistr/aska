@@ -10,7 +10,7 @@ Following are the steps to guide you:
 * Step 1: Fork the repo Go to your Git terminal and clone it on your machine.
 * Step 2: Add an upstream link to the main branch in your cloned repo
     ```
-    git remote add upstream [...]
+    git remote add upstream https://github.com/mitchmeistr/aska
     ```
 * Step 3: Keep your cloned repo up to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
     ```
